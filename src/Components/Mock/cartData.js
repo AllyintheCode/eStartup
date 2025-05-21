@@ -1,9 +1,18 @@
-
-// const cartData = [
-//   { id: 0, icon: <MdOutlineTabletMac />, desc: "lorem" },
-//   { id: 1, icon: <IoDiamondOutline />, desc: "lorem" },
-//   { id: 2, icon: <SiGooglemaps />, desc: "lorem" },
-//   { id: 3, icon: <FaBezierCurve />, desc: "lorem" },
-// ]
-
-// export default cartData;
+// const cards = [
+//     {
+//       icon: <MdOutlineTabletMac className="text-amber-50 text-6xl mx-auto drop-shadow-lg" />,
+//       title: "Lorem Ipsum"
+//     },
+//     {
+//       icon: <IoDiamondOutline className="text-amber-50 text-6xl mx-auto drop-shadow-lg" />,
+//       title: "Lorem Ipsum"
+//     },
+//     {
+//       icon: <SiGooglemaps className="text-amber-50 text-6xl mx-auto drop-shadow-lg" />,
+//       title: "Lorem Ipsum"
+//     },
+//     {
+//       icon: <FaBezierCurve className="text-amber-50 text-6xl mx-auto drop-shadow-lg" />,
+//       title: "Lorem Ipsum"
+//     }
+//   ];
